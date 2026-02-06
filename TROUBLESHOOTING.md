@@ -12,7 +12,7 @@ Ctrl + C
 ```
 
 Do this for BOTH terminal windows.
-
+            
 ### Step 2: Clear Node Cache (Optional but Recommended)
 ```bash
 rm -rf node_modules/.vite
