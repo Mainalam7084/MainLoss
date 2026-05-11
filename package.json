@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "date-fns": "^4.1.0",
-    "dexie": "^4.3.0",
+    "dexie": "^4.4.2",
     "framer-motion": "^12.33.0",
     "lucide-react": "^0.563.0",
     "react": "^19.2.0",
